@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "vector": "cpp",
+        "cstring": "cpp",
+        "system_error": "cpp"
+    }
+}
